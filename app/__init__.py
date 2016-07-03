@@ -1,1 +1,1 @@
-Global ={"picture":"./view/static/t_logo.png"}
+Global = {"picture": "./view/static/title.png"}
