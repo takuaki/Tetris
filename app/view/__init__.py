@@ -1,1 +1,1 @@
-from .entryViewer import EntryViewer
+from .entry_viewer import EntryViewer
