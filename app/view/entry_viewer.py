@@ -35,7 +35,7 @@ class EntryViewer(tk.Canvas):
         self.button_start.pack(side=tk.TOP)
         self.button_exit = tk.Button(buttonFrame, text="Exit", command=lambda: None)
         self.button_exit.pack(side=tk.TOP)
-        self.button_score = tk.Button(buttonFrame, text="Stop", command=lambda: None)
+        self.button_score = tk.Button(buttonFrame, text="Score", command=lambda: None)
         self.button_score.pack(side=tk.TOP)
         buttonFrame.place(relx=0.5,rely=0.5)
 
